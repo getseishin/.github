@@ -4,7 +4,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/dark-logo.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/light-logo.png">
-      <img alt="mytiki logo" src="./assets/light-logo.png" height="100">
+      <img alt="logo" src="./assets/light-logo.png" height="100">
     </picture>
   </a>
   <p align="center">
