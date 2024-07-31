@@ -8,7 +8,7 @@
     </picture>
   </a>
   <p align="center">
-    Ideas laboratory
+    Your reliable delivery service platform, tailored for restaurants, markets, pharmacies, and more. Simplify your logistics.
     <br />
     <a href="https://seish.in">Website</a>
     ·
